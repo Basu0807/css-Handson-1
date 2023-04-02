@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+h2{
+    color: tomato;
+    font-style: italic;
+}
+.firstlist{
+    color: rgb(165, 42, 42);
+    line-height: 3;
+}
+#cancel{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.mark{
+    background-color: yellow;
+    font-weight: bold;
+}
+#ul{
+    text-decoration: underline;
+    font-style: italic;
+}
+.secondlist{
+    color: brown;
+    letter-spacing: 5px;
+}
+.para{
+    color: rgb(181, 110, 28);
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+}
